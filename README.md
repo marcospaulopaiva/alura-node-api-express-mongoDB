@@ -25,7 +25,7 @@ alt="#" width="150" height="150">
 
 <p align="left">
   <strong>Aulas:</strong> </br> 
-  - Criando um projeto em Node.js - 32 </br>
+  - Criando um projeto em Node.js - 32min </br>
   - Express e primeiras rotas - 48min</br>
   - Persistindo dados - 46min</br>
   - Evoluindo a API - 43min</br>
@@ -37,5 +37,5 @@ alt="#" width="150" height="150">
 </p>
 
 <p align="left">
-  💼 Ferramentas: Ubuntu, VS Code, GitKraken
+  💼 Ferramentas: Ubuntu, VS Code, GitKraken, MongoDB
 </p>
